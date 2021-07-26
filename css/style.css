@@ -47,6 +47,49 @@
     
 }
 
+
+/*ESTILOS ARTICULOS*/
+.contenido-principal{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.section{
+    width: 80%;
+}
+.articulo{
+    width: 80%;
+}
+.articulo h2{
+    width: 100%;
+    background-color: #479311;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.articulo p{
+    width: 95%;
+    padding: 5px
+}
+
+.barra-lateral{
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  /*ESTILOS FOOTER*/
 
 .footer{
@@ -75,11 +118,9 @@
     color: white;
     list-style: none;
 }
-
 .logodepto{
     width: 35%;
 }
-
 .menu-footer{
     width: 30%;
 }
